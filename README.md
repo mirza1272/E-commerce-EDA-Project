@@ -1,4 +1,4 @@
-# 🛒 E-commerce EDA Project
+# E-commerce EDA Project
 
 A complete Exploratory Data Analysis (EDA) project on a real-world eCommerce dataset containing over **550,000 rows** of unstructured data.
 
